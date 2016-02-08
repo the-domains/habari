@@ -1,28 +1,40 @@
-name: Habari
-favicon: null
 layout_spectrum: 0.6995669689495116
-typography_spectrum: 0.04158320254646242
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: Habari
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
-  brandColors:
-    - '#ede9e8'
-    - '#cec9c6'
-    - '#0b0c07'
-    - '#595051'
-    - '#bca8a2'
   brandStrength: 0.8125
-  lightness: 1
-  saturation: 0.75
-  rhythmicContrast: 0.75
-purpose: []
+  lightness: 0.5723404
+  saturation: 0.6255319
+  rhythmicContrast: 0.606383
+  brandColors:
+    - '#060000'
+    - '#420302'
+    - '#A31602'
+    - '#D03904'
+    - '#7A884E'
+typography_spectrum: 0.04158320254646242
