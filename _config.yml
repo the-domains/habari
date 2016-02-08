@@ -1,4 +1,4 @@
-layout_spectrum: 0.6995669689495116
+layout_spectrum: 0.8808511
 favicon: null
 name: Habari
 purpose: []
@@ -28,13 +28,13 @@ cta:
   domain: null
 color:
   brandStrength: 0.8125
-  lightness: 0.5723404
-  saturation: 0.6255319
-  rhythmicContrast: 0.606383
+  lightness: 0.9808511
+  saturation: 0.3744681
+  rhythmicContrast: 0.3829787
   brandColors:
-    - '#060000'
-    - '#420302'
-    - '#A31602'
-    - '#D03904'
-    - '#7A884E'
-typography_spectrum: 0.04158320254646242
+    - '#FCFDF9'
+    - '#0C0B0A'
+    - '#D7BD78'
+    - '#3A2F16'
+    - '#917730'
+typography_spectrum: 0.4808511
