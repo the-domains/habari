@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Habari]]></title>
+        <description><![CDATA[Habari]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 01:25:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TRIBE: LIFE ON THE EDGE]]></title>
+            <description><![CDATA[<article><h1>TRIBE: LIFE ON THE EDGE</h1><p>Global Storytellers | TV Producers | Production/Travel Consultants | Nat Geo Shortlisted | WorldNomads.com Travel Safety Reporters | Previously: Al Jazeera, BBC, Seven Network</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3ba45746d68480db88f33302684a0c69e503ea3.jpg"></article>]]></description>
+            <link>http://www.habariproductions.com/alps/</link>
+            <guid isPermaLink="false">a0415b06-9af2-43bd-bc94-7f9826ff7a59</guid>
+            <pubDate>Mon, 08 Feb 2016 01:25:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
